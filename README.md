@@ -14,7 +14,3 @@ How to Play
   8. If your guess is incorrect, the game will display a message informing you that you have an incorrect guess and ask you to try again.
   9. You have 5 guesses to try and get the correct sequence. If you run out of guesses before guessing the correct sequence, the game will display a message telling you that you are out of guesses and show you the correct sequence.
   
-Requirements
-  Rust installed on your machine.
-Acknowledgements
-  This game was created with the help of the Rust programming language and the rand crate.
